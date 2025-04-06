@@ -9,9 +9,8 @@ export default defineNuxtConfig({
         '@pinia/nuxt'
     ],
     i18n: {
-        // 他の設定...
         bundle: {
-            optimizeTranslationDirective: false,  // この行を追加
+            optimizeTranslationDirective: false,
         }
     }
 })

@@ -36,8 +36,13 @@
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^3.2.6",
+    "@junk-temporary-prototypes/addon-docs": "7.2.5",
+    "@storybook/addon-a11y": "8.6.12",
+    "@storybook/addon-controls": "8.6.12",
+    "@storybook/addon-docs": "8.6.12",
     "@storybook/addon-essentials": "^8.6.12",
     "@storybook/addon-onboarding": "^8.6.12",
+    "@storybook/addon-toolbars": "8.6.12",
     "@storybook/blocks": "^8.6.12",
     "@storybook/experimental-addon-test": "^8.6.12",
     "@storybook/test": "^8.6.12",
@@ -48,6 +53,7 @@
     "eslint-plugin-storybook": "^0.12.0",
     "playwright": "^1.51.1",
     "storybook": "^8.6.12",
+    "storybook-i18n": "3.1.1",
     "typedoc": "^0.28.1",
     "vitest": "^3.1.1"
   }
