@@ -15,7 +15,7 @@ const config: StorybookConfig = {
         "@junk-temporary-prototypes/addon-docs",
     ],
     "framework": {
-        "name": "@storybook/vue3-vite",
+        "name": "@storybook/app-vite",
         "options": {}
     }
 };
